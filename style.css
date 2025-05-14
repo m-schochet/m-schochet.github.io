@@ -139,3 +139,10 @@ ul.main-menu li a.active {
 .show {
   display:block;
 }
+
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    processEscapes: true
+  }
+});
