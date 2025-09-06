@@ -1,22 +1,12 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "'Where Are the Smallest Black Holes?': Probing the mass gap with APOGEE<br />University of Florida, Spring Undergraduate Research Symposium; Gainesville, FL, USA",
+    29.6519684,
+    -82.3249846
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
-  ],
-  [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
-  ],
-  [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "Using Rotation to Explore Stellar Binarity and Period Prediction Techniques<br />The 245th Meeting of the American Astronomical Society, iPoster Sessions; Washington, DC, USA",
+    38.8950368,
+    -77.0365427
   ]
 ];
