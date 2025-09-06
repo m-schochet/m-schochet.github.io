@@ -1,0 +1,15 @@
+---
+title: "A Lack of Mass-gap Compact Object Binaries in APOGEE"
+collection: publications
+permalink: /publication/2024-06-01-a-lack-of-mass-gap-COs-in-APOGEE
+excerpt: 'Depending principally on mass, the compact object remnant left behind after a star’s life may be a white dwarf (WD), neutron star (NS), or black hole (BH). While we have large samples of each of these remnants, we lack knowledge of the exact conditions separating these outcomes. The boundary between low-mass BHs and massive NSs is particularly poorly understood, as few objects between 2-5 M⊙ are known. To probe this regime, we search the APOGEE DR17 dataset of 657,000 unique stars for binary systems with one stellar component that exhibit large radial velocity shifts over multiple observations. We identify 4751 likely binary systems, and estimate a minimum mass for each system’s “invisible companion” under the assumption of tidal synchronization. Two systems have companion masses ≳ 2 M⊙, although we conclude that neither are good candidates for possessing a mass-gap NS or BH companions.'
+date: 2024-06-01
+venue: 'Research Notes of the American Astronomical Society  Meir Schochet et al 2024 Res. Notes AAS 8 166 3.'
+paperurl: 'https://m-schochet.github.io/files/10.3847/2515-5172/ad5964.pdf'
+citation: 'Meir Schochet et al 2024 Res. Notes AAS 8 166'
+---
+Depending principally on mass, the compact object remnant left behind after a star’s life may be a white dwarf (WD), neutron star (NS), or black hole (BH). While we have large samples of each of these remnants, we lack knowledge of the exact conditions separating these outcomes. The boundary between low-mass BHs and massive NSs is particularly poorly understood, as few objects between 2-5 M⊙ are known. To probe this regime, we search the APOGEE DR17 dataset of 657,000 unique stars for binary systems with one stellar component that exhibit large radial velocity shifts over multiple observations. We identify 4751 likely binary systems, and estimate a minimum mass for each system’s “invisible companion” under the assumption of tidal synchronization. Two systems have companion masses ≳ 2 M⊙, although we conclude that neither are good candidates for possessing a mass-gap NS or BH companions.
+
+[Download paper here](https://m-schochet.github.io/files/10.3847/2515-5172/ad5964.pdf)
+
+Recommended citation: Meir Schochet et al 2024 Res. Notes AAS 8 166
