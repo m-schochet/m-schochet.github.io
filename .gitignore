@@ -18,3 +18,7 @@ package-lock.json
 
 # Ignore folders related to IDEs
 .vscode/
+
+
+#Additionally ignore the markdown page
+_pages/markdown.md
