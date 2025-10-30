@@ -9,7 +9,7 @@ redirect_from:
 
 My name is Meir Schochet, and I'm a first year PhD student in the Department of Physics and Astronomy at Michigan State University. I am currently working under the guidance of Dr. Adina Feinstein on young stellar activity and other forms of observable stellar phenomena. Before moving to East Lansing, I graduated Summa Cum Laude with my B.S. in Astrophysics and a minor in Philosophy from the University of Florida. 
 
-This is the front page of my website, and it is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template! You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+
 
 Stellar Astrophysics
 ======
