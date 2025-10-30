@@ -9,7 +9,3 @@ paperurl: 'https://m-schochet.github.io/files/ad5964.pdf'
 citation: 'Meir Schochet et al 2024 Res. Notes AAS 8 166'
 ---
 Depending principally on mass, the compact object remnant left behind after a star’s life may be a white dwarf (WD), neutron star (NS), or black hole (BH). 
-
-[Download paper here](https://m-schochet.github.io/files/ad5964.pdf)
-
-Recommended citation: Meir Schochet et al 2024 Res. Notes AAS 8 166
